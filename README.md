@@ -34,9 +34,7 @@ The API uses Pydantic for data validation and `pytest` for testing.
     ```
 
 3.  **Install dependencies:**
-    You will need to install the project dependencies. If you don't have a `requirements.txt` yet, you can run the following command to create one and then install from it:
     ```bash
-    pip freeze > requirements.txt
     pip install -r requirements.txt
     ```
 

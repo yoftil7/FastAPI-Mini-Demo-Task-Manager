@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+pycache/
+*.py[cod]
+Virtual environment
+venv/
+env/
+Editor/IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.bak
+*.swo
+Test artifacts
+.pytest_cache/
+.coverage
+Miscellaneous
+.DS_Store

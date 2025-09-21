@@ -12,7 +12,7 @@ The API uses Pydantic for data validation and `pytest` for testing.
 .
 ├── main.py # Main FastAPI application with routes and in-memory storage
 ├── pytest.ini # pytest configuration file
-├── tests/
+├── tests/ # tests folder
 │ └── test_fastapi_tasks.py # Tests for the API endpoints
 └── venv/
 

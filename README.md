@@ -21,7 +21,7 @@ The API uses Pydantic for data validation and `pytest` for testing.
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/task_manager_faskapi.git
+    git clone https://github.com/yoftil7/task_manager_faskapi.git
     cd task_manager_faskapi
     ```
 
